@@ -74,12 +74,7 @@ These insights can be used for:
 ## 🖼 Sample Output
 
 **Dendrogram for Hierarchical Clustering**  
-<img width="750" height="557" alt="dendrogram" src="https://github.com/user-attachments/assets/35faf74a-6f61-480c-f9e2-c9088ff00f82" />
+<img width="707" height="542" alt="image" src="https://github.com/user-attachments/assets/03bc21bf-5f67-4e4f-94aa-ab61d8ca0b9b" />
 
-## 📝 Notes
-- Update the dataset file path in the notebook if it differs from the specified Google Drive location.
-- The clustering uses the Ward linkage method to minimize variance within clusters. Other linkage methods can be explored by modifying the `method` parameter in `sch.linkage`.
-- This project focuses on visualizing the clustering structure via a dendrogram. Additional clustering steps (e.g., applying AgglomerativeClustering) can be added to assign cluster labels.
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+**Customer Segments Visualization**  
+<img width="706" height="547" alt="image" src="https://github.com/user-attachments/assets/9b54f839-192c-4855-9e95-f20ed11e6a62" />
